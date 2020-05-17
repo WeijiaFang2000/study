@@ -1,4 +1,4 @@
-sum = 0
+sum_all = 0
 for i in range(1,101):
-    sum += i
-print(sum)
+    sum_all += i
+print(sum_all)
